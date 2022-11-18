@@ -1,3 +1,6 @@
 .jukit
 __pycache__
 *.pth
+notebooks/.ipynb_checkpoints
+.DS_Store
+data
